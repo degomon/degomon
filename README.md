@@ -10,4 +10,4 @@ I enjoy working on projects that combine these technologies to deliver comprehen
 
 📝 I write my notes and learnings at **[dev.degomon.com](https://dev.degomon.com)**.
 
-You can also find me at **[LinkedIn](https://www.linkedin.com/in/degomon/)** and **[Twitter/X](https://twitter.com/degomon)** ([@degomondev](https://twitter.com/degomon)).
+You can also find me at **[LinkedIn](https://www.linkedin.com/in/degomon/)** and **[Twitter/X](https://twitter.com/degomon)** ([@degomon](https://twitter.com/degomon)).
